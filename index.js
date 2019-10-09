@@ -47,7 +47,9 @@
         data_list.forEach( (row, i)  => {
             const tr = main_table.appendChild(document.createElement("tr"));
             row.forEach( ( col, j)=> {
-                tr.appendChild(createCell(i, j, "x"))
+                //col 에 위치
+                //tr.appendChild(createCell(i, j, "x"))
+                tr.appendChild(createCell(i, j, col))
             });
         });
     }
