@@ -3,6 +3,7 @@ Hello, Making Minesweeper with Geonil Jang. Guys
 
 - [ ] HTML5, CSS3, vanilla js without React, Bye-Bye  
 - [ ] Actually, I don't know what minesweeper is. Let's play it first.
+
 <pre>
 <code>
     * 사각형은 가로10개 , 세로 10개
