@@ -4,7 +4,7 @@ Hello, Making Minesweeper with Geonil Jang. Guys
 - [ ] HTML5, CSS3, vanilla js without React, Bye-Bye  
 - [ ] Actually, I don't know what minesweeper is. Let's play it first.
 - [ ] m 의 위치가 지뢰의 위치를 가르키고 있으며, 내용확인을 위하여 위치 노출,
-     | index.js 51 수정 / style td 부분 조정으로 노출을막을 수 있음.
+     ( index.js 51 수정 / style td 부분 조정으로 노출을막을 수 있음. )
 <pre>
 <code>
     * 사각형은 가로10개 , 세로 10개
